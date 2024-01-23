@@ -19,10 +19,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=ruturajbayad&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruturajbayad&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruturajbayad&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Snake animation](https://raw.githubusercontent.com/ruturajbayad/ruturajbayad/output/github-contribution-grid-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
