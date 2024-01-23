@@ -1,3 +1,6 @@
+[<h1 align="center">Hi 👋, I'm Ruturaj</h1>](https://capsule-render.vercel.app/api?type=waving&height=285&color=gradient&text=Hi%2👋,%20I'm%20Ruturaj&descAlign=78&descAlignY=91&descSize=27&strokeWidth=0&animation=fadeIn&fontSize=50&reversal=true)
+<h3 align="center">A passionate MERN Stack developer from India</h3>
+
 # 💫 About Me:
 👋 Hey fellow coders! I'm Ruturaj, on a coding adventure at Gyanmanjari Innovative University (GMIU) 🚀.<br><br>💻 MERN Stack Developer | ☁️ Cloud Explorer | 🐳 Docker Devotee | ☸️ Kubernetes Koder<br><br>Currently decoding the secrets of IT in my BE journey. Passionate about crafting clean code and deploying it to the cloud. 🌐<br><br>Check out my repos below for a glimpse into my coding escapades! 👇<br><br>Open to collaboration and always up for a coding challenge. Let's make some byte-sized magic together! ✨💻✨<br>
 
